@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "EncuentraYA completo",
+    "Projects": [
+      {
+        "Path": "backend\\EncuentraYA.API\\EncuentraYA.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "frontend\\EncuentraYA.Frontend.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

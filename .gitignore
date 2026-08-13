@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies and build output
+/frontend/node_modules/
+/frontend/dist/
+/backend/**/bin/
+/backend/**/obj/
+/.next/
+/.vinext/
+/.wrangler/
+/dist/
+/node_modules/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+/outputs/
+/work/
+/backend/EncuentraYA.API/wwwroot/uploads/*
+!/backend/EncuentraYA.API/wwwroot/uploads/.gitkeep
+
+# Visual Studio local state
+/.vs/
+*.user

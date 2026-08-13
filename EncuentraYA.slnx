@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/EncuentraYA.API/EncuentraYA.API.csproj" />
+    <Project Path="backend/EncuentraYA.Application/EncuentraYA.Application.csproj" />
+    <Project Path="backend/EncuentraYA.Domain/EncuentraYA.Domain.csproj" />
+    <Project Path="backend/EncuentraYA.Infrastructure/EncuentraYA.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/frontend/">
+    <Project Path="frontend/EncuentraYA.Frontend.esproj" />
+  </Folder>
+</Solution>

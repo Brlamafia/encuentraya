@@ -1,0 +1,6 @@
+export * from './catalog/CatalogPages'
+export * from './reporting/ReportPage'
+export * from './identity/IdentityPages'
+export * from './recovery/RecoveryPages'
+export * from './activity/ActivityPages'
+export * from './administration/AdminPage'

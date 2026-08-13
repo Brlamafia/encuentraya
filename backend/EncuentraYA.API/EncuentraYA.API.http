@@ -1,0 +1,6 @@
+@EncuentraYA.API_HostAddress = http://localhost:5220
+
+GET {{EncuentraYA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
